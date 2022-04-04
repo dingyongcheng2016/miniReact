@@ -1,0 +1,12 @@
+{
+  "name": "miniReact",
+  "version": "1.0.0",
+  "description": "build-your-own-react",
+  "main": "index.js",
+  "keywords": [
+    "react"
+  ],
+  "repository": "https://github.com/dingyongcheng2016/miniReact.git",
+  "author": "dingyongcheng <bugcheng@163.com>",
+  "license": "MIT"
+}
